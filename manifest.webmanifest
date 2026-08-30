@@ -1,9 +1,1 @@
-{
-  "name":"Personal Fitness Planner",
-  "short_name":"Fitness",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#f5f7fb",
-  "theme_color":"#111827",
-  "lang":"ru"
-}
+{"name":"Personal Fitness Planner Pro","short_name":"Fitness Pro","start_url":"./","display":"standalone","background_color":"#f4f6fa","theme_color":"#0f172a","lang":"ru","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
